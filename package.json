@@ -1,0 +1,14 @@
+{
+  "name": "llm-to-slack",
+  "version": "1.0.0",
+  "description": "Normalize clipboard text so paragraph breaks survive pasting into Slack and iMessage.",
+  "scripts": {
+    "pastefix": "node scripts/pastefix.js",
+    "pastefix:paste": "node scripts/pastefix.js --paste"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "os": ["darwin"],
+  "license": "MIT"
+}
