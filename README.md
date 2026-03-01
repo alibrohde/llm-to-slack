@@ -119,4 +119,4 @@ llm-to-slack/
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT
